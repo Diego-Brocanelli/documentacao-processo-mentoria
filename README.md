@@ -6,7 +6,7 @@
 
 Esta iniciativa é realizada com o apoio do [Training Center](https://github.com/training-center), projeto open source destinado a auxiliar toda e qualquer pessoa que tenha interesse em entrar no mercado de trabalho de TI.
 
-Este repositório tem como finalidade documentar o processo de mentoria a ser realziado.
+Este repositório tem como finalidade documentar o processo de mentoria a ser realizado.
 
 # Partes envolvidas
 
@@ -41,12 +41,12 @@ O RoadMap utilizado é o mesmo do [grupo de etudos de PHP/POO](https://github.co
 # Processo de mentoria
 
 - Reunião mensal para alinhamento geral de metas.
-    - Períodicidade:
+    - Periodicidade:
         - 01 reunião.
 - Documentação do processo de estudos.
 - Auxílio via Slack.
-- [Regras e responsábilidades](https://github.com/training-center/mentoria/blob/master/admin/CONDUTA.md).
+- [Regras e responsabilidades](https://github.com/training-center/mentoria/blob/master/admin/CONDUTA.md).
 - [Regras de conduta](https://github.com/training-center/sobre/blob/master/CONDUCT.md).
 - É exigido 100% de transparência de ambas as partes durante o processo de mentoria.
 
-Toda a documentação criada para oprocesso de mentoria pode ser utilizado livremente, apenas solicitamos que mantenham a referência de sua origem.
+Toda a documentação criada para o processo de mentoria pode ser utilizado livremente, apenas solicitamos que mantenham a referência de sua origem.

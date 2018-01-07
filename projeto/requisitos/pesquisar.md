@@ -2,7 +2,7 @@
 
 ### Descrição
 
-View principla do sistema, onde contempla um grid de dados de produtos.
+View principal do sistema, onde contempla um grid de dados de produtos.
 
 - ***Colunas do Grid:***
     - Produto
@@ -17,7 +17,7 @@ View principla do sistema, onde contempla um grid de dados de produtos.
 
 - Título do sistema.
 - Botão de cadastro de produto.
-- Grid de pesquisa deprodutos.
+- Grid de pesquisa de produtos.
 - Paginador.
 - Footer.
 

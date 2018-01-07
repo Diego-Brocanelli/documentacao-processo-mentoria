@@ -6,12 +6,12 @@ Desenvolver um sistema web para gerenciamento de produtos.
 
 ### Requisitos do sistema:
 
-- Recrusos a serem implementados:
+- Recursos a serem implementados:
     - Cadastrar.
     - Atualizar.
     - Pesquisar.
     - Remover.
-- O layout do sistema deve ser responsívo.
+- O layout do sistema deve ser responsivo.
 
 # Material de apoio
 

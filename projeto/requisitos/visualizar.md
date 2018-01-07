@@ -18,7 +18,7 @@ View responsável por exibir os dados do produto desejado.
 - Receber o id do produto desejado.
 - Validar id.
 - Pesquisar produto desejado.
-    - Caso produto desejado não seja encontrado, retornar mensagem "Produto desejado não encontrato."
+    - Caso produto desejado não seja encontrado, retornar mensagem "Produto desejado não encontrado."
 - Exibir os dados do produto na view.
 
 ### Objetivo

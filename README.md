@@ -48,3 +48,5 @@ O RoadMap utilizado é o mesmo do [grupo de etudos de PHP/POO](https://github.co
 - [Regras e responsábilidades](https://github.com/training-center/mentoria/blob/master/admin/CONDUTA.md).
 - [Regras de conduta](https://github.com/training-center/sobre/blob/master/CONDUCT.md).
 - É exigido 100% de transparência de ambas as partes durante o processo de mentoria.
+
+Toda a documentação criada para oprocesso de mentoria pode ser utilizado livremente, apenas solicitamos que mantenham a referência de sua origem.

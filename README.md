@@ -34,6 +34,10 @@ Aprender os conceitos básicos e intermediários da linguagem PHP, desenvolver u
 
 O RoadMap utilizado é o mesmo do [grupo de etudos de PHP/POO](https://github.com/training-center/php-study-group)
 
+# Reuniões
+
+- [Pauta](reunioes/pautas/README.md)
+
 # Check list de progresso.
 
 - [Lista de progressos](/reunioes/progressos/README.md)

@@ -1,0 +1,8 @@
+header{
+    width: 100%;
+    display: inline-block;
+    background: #000;
+}
+header h1{
+    color: #fff;
+}
